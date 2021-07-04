@@ -1,0 +1,1014 @@
+date,cases,country
+2020-06-16,43,China
+2020-06-15,47,China
+2020-06-14,60,China
+2020-06-13,12,China
+2020-06-12,7,China
+2020-06-11,11,China
+2020-06-10,4,China
+2020-06-09,3,China
+2020-06-08,5,China
+2020-06-07,9,China
+2020-06-06,6,China
+2020-06-05,11,China
+2020-06-04,1,China
+2020-06-03,5,China
+2020-06-02,7,China
+2020-06-01,19,China
+2020-05-31,5,China
+2020-05-30,17,China
+2020-05-29,0,China
+2020-05-28,3,China
+2020-05-27,1,China
+2020-05-26,7,China
+2020-05-25,11,China
+2020-05-24,3,China
+2020-05-23,2,China
+2020-05-22,12,China
+2020-05-21,2,China
+2020-05-20,2,China
+2020-05-19,9,China
+2020-05-18,10,China
+2020-05-17,6,China
+2020-05-16,9,China
+2020-05-15,5,China
+2020-05-14,6,China
+2020-05-13,7,China
+2020-05-12,1,China
+2020-05-11,19,China
+2020-05-10,15,China
+2020-05-09,0,China
+2020-05-08,6,China
+2020-05-07,2,China
+2020-05-06,2,China
+2020-05-05,2,China
+2020-05-04,3,China
+2020-05-03,2,China
+2020-05-02,3,China
+2020-05-01,12,China
+2020-04-30,4,China
+2020-04-29,2,China
+2020-04-28,26,China
+2020-04-27,3,China
+2020-04-26,10,China
+2020-04-25,15,China
+2020-04-24,8,China
+2020-04-23,12,China
+2020-04-22,15,China
+2020-04-21,32,China
+2020-04-20,14,China
+2020-04-19,18,China
+2020-04-18,31,China
+2020-04-17,352,China
+2020-04-16,50,China
+2020-04-15,49,China
+2020-04-14,94,China
+2020-04-13,112,China
+2020-04-12,93,China
+2020-04-11,79,China
+2020-04-10,55,China
+2020-04-09,86,China
+2020-04-08,86,China
+2020-04-07,56,China
+2020-04-06,67,China
+2020-04-05,48,China
+2020-04-04,62,China
+2020-04-03,70,China
+2020-04-02,100,China
+2020-04-01,54,China
+2020-03-31,84,China
+2020-03-30,98,China
+2020-03-29,113,China
+2020-03-28,119,China
+2020-03-27,94,China
+2020-03-26,102,China
+2020-03-25,78,China
+2020-03-24,69,China
+2020-03-23,138,China
+2020-03-22,65,China
+2020-03-21,52,China
+2020-03-20,99,China
+2020-03-19,44,China
+2020-03-18,23,China
+2020-03-17,43,China
+2020-03-16,25,China
+2020-03-15,22,China
+2020-03-14,19,China
+2020-03-13,22,China
+2020-03-12,24,China
+2020-03-11,29,China
+2020-03-10,20,China
+2020-03-09,45,China
+2020-03-08,46,China
+2020-03-07,101,China
+2020-03-06,170,China
+2020-03-05,117,China
+2020-03-04,119,China
+2020-03-03,127,China
+2020-03-02,205,China
+2020-03-01,574,China
+2020-02-29,428,China
+2020-02-28,329,China
+2020-02-27,439,China
+2020-02-26,410,China
+2020-02-25,515,China
+2020-02-24,218,China
+2020-02-23,647,China
+2020-02-22,826,China
+2020-02-21,891,China
+2020-02-20,394,China
+2020-02-19,1750,China
+2020-02-18,1890,China
+2020-02-17,2052,China
+2020-02-16,2007,China
+2020-02-15,2538,China
+2020-02-14,4156,China
+2020-02-13,15141,China
+2020-02-12,2028,China
+2020-02-11,2490,China
+2020-02-10,2974,China
+2020-02-09,2607,China
+2020-02-08,3418,China
+2020-02-07,3160,China
+2020-02-06,3727,China
+2020-02-05,3872,China
+2020-02-04,3237,China
+2020-02-03,2812,China
+2020-02-02,2590,China
+2020-02-01,2095,China
+2020-01-31,1980,China
+2020-01-30,1740,China
+2020-01-29,1466,China
+2020-01-28,1753,China
+2020-01-27,787,China
+2020-01-26,665,China
+2020-01-25,441,China
+2020-01-24,259,China
+2020-01-23,97,China
+2020-01-22,140,China
+2020-01-21,151,China
+2020-01-20,19,China
+2020-01-19,136,China
+2020-01-18,17,China
+2020-01-17,4,China
+2020-01-16,0,China
+2020-01-15,0,China
+2020-01-14,0,China
+2020-01-13,0,China
+2020-01-12,0,China
+2020-01-11,0,China
+2020-01-10,0,China
+2020-01-09,0,China
+2020-01-08,0,China
+2020-01-07,0,China
+2020-01-06,0,China
+2020-01-05,15,China
+2020-01-04,0,China
+2020-01-03,17,China
+2020-01-02,0,China
+2020-01-01,0,China
+2019-12-31,27,China
+2020-06-16,10667,India
+2020-06-15,11502,India
+2020-06-14,11929,India
+2020-06-13,11458,India
+2020-06-12,10956,India
+2020-06-11,9996,India
+2020-06-10,9985,India
+2020-06-09,9987,India
+2020-06-08,9983,India
+2020-06-07,9971,India
+2020-06-06,9887,India
+2020-06-05,9851,India
+2020-06-04,9304,India
+2020-06-03,8909,India
+2020-06-02,8171,India
+2020-06-01,8392,India
+2020-05-31,8380,India
+2020-05-30,7964,India
+2020-05-29,7466,India
+2020-05-28,6566,India
+2020-05-27,6387,India
+2020-05-26,6535,India
+2020-05-25,6977,India
+2020-05-24,6767,India
+2020-05-23,6654,India
+2020-05-22,6088,India
+2020-05-21,5609,India
+2020-05-20,5611,India
+2020-05-19,4970,India
+2020-05-18,5242,India
+2020-05-17,4987,India
+2020-05-16,3970,India
+2020-05-15,3967,India
+2020-05-14,3722,India
+2020-05-13,3525,India
+2020-05-12,3604,India
+2020-05-11,4213,India
+2020-05-10,3277,India
+2020-05-09,3320,India
+2020-05-08,3390,India
+2020-05-07,3561,India
+2020-05-06,2958,India
+2020-05-05,3900,India
+2020-05-04,2553,India
+2020-05-03,2644,India
+2020-05-02,2293,India
+2020-05-01,1993,India
+2020-04-30,1718,India
+2020-04-29,1897,India
+2020-04-28,1543,India
+2020-04-27,1396,India
+2020-04-26,1990,India
+2020-04-25,1429,India
+2020-04-24,1684,India
+2020-04-23,1409,India
+2020-04-22,1384,India
+2020-04-21,1335,India
+2020-04-20,1553,India
+2020-04-19,1334,India
+2020-04-18,991,India
+2020-04-17,1007,India
+2020-04-16,942,India
+2020-04-15,1075,India
+2020-04-14,1211,India
+2020-04-13,796,India
+2020-04-12,909,India
+2020-04-11,1035,India
+2020-04-10,678,India
+2020-04-09,540,India
+2020-04-08,773,India
+2020-04-07,354,India
+2020-04-06,693,India
+2020-04-05,472,India
+2020-04-04,601,India
+2020-04-03,336,India
+2020-04-02,568,India
+2020-04-01,146,India
+2020-03-31,180,India
+2020-03-30,92,India
+2020-03-29,106,India
+2020-03-28,149,India
+2020-03-27,75,India
+2020-03-26,87,India
+2020-03-25,70,India
+2020-03-24,53,India
+2020-03-23,119,India
+2020-03-22,89,India
+2020-03-21,40,India
+2020-03-20,26,India
+2020-03-19,28,India
+2020-03-18,12,India
+2020-03-17,32,India
+2020-03-16,3,India
+2020-03-15,7,India
+2020-03-14,8,India
+2020-03-13,2,India
+2020-03-12,23,India
+2020-03-11,6,India
+2020-03-10,10,India
+2020-03-08,3,India
+2020-03-07,2,India
+2020-03-06,1,India
+2020-03-05,22,India
+2020-03-04,1,India
+2020-03-03,2,India
+2020-03-02,0,India
+2020-03-01,0,India
+2020-02-29,0,India
+2020-02-28,0,India
+2020-02-27,0,India
+2020-02-26,0,India
+2020-02-25,0,India
+2020-02-24,0,India
+2020-02-23,0,India
+2020-02-22,0,India
+2020-02-21,0,India
+2020-02-20,0,India
+2020-02-19,0,India
+2020-02-18,0,India
+2020-02-17,0,India
+2020-02-16,0,India
+2020-02-15,0,India
+2020-02-14,0,India
+2020-02-13,0,India
+2020-02-12,0,India
+2020-02-11,0,India
+2020-02-10,0,India
+2020-02-09,0,India
+2020-02-08,0,India
+2020-02-07,0,India
+2020-02-06,0,India
+2020-02-05,0,India
+2020-02-04,1,India
+2020-02-03,0,India
+2020-02-02,1,India
+2020-02-01,0,India
+2020-01-31,0,India
+2020-01-30,1,India
+2020-01-29,0,India
+2020-01-28,0,India
+2020-01-27,0,India
+2020-01-26,0,India
+2020-01-25,0,India
+2020-01-24,0,India
+2020-01-23,0,India
+2020-01-22,0,India
+2020-01-21,0,India
+2020-01-20,0,India
+2020-01-19,0,India
+2020-01-18,0,India
+2020-01-17,0,India
+2020-01-16,0,India
+2020-01-15,0,India
+2020-01-14,0,India
+2020-01-13,0,India
+2020-01-12,0,India
+2020-01-11,0,India
+2020-01-10,0,India
+2020-01-09,0,India
+2020-01-08,0,India
+2020-01-07,0,India
+2020-01-06,0,India
+2020-01-05,0,India
+2020-01-04,0,India
+2020-01-03,0,India
+2020-01-02,0,India
+2020-01-01,0,India
+2019-12-31,0,India
+2020-06-16,301,Italy
+2020-06-15,338,Italy
+2020-06-14,346,Italy
+2020-06-13,163,Italy
+2020-06-12,379,Italy
+2020-06-11,202,Italy
+2020-06-10,283,Italy
+2020-06-09,280,Italy
+2020-06-08,197,Italy
+2020-06-07,270,Italy
+2020-06-06,518,Italy
+2020-06-05,177,Italy
+2020-06-04,321,Italy
+2020-06-03,318,Italy
+2020-06-02,178,Italy
+2020-06-01,355,Italy
+2020-05-31,416,Italy
+2020-05-30,516,Italy
+2020-05-29,593,Italy
+2020-05-28,584,Italy
+2020-05-27,397,Italy
+2020-05-26,300,Italy
+2020-05-25,531,Italy
+2020-05-24,669,Italy
+2020-05-23,652,Italy
+2020-05-22,642,Italy
+2020-05-21,665,Italy
+2020-05-20,813,Italy
+2020-05-19,451,Italy
+2020-05-18,675,Italy
+2020-05-17,875,Italy
+2020-05-16,789,Italy
+2020-05-15,992,Italy
+2020-05-14,888,Italy
+2020-05-13,1402,Italy
+2020-05-12,744,Italy
+2020-05-11,802,Italy
+2020-05-10,1083,Italy
+2020-05-09,1327,Italy
+2020-05-08,1401,Italy
+2020-05-07,1444,Italy
+2020-05-06,1075,Italy
+2020-05-05,1221,Italy
+2020-05-04,1389,Italy
+2020-05-03,1900,Italy
+2020-05-02,1965,Italy
+2020-05-01,1872,Italy
+2020-04-30,2086,Italy
+2020-04-29,2091,Italy
+2020-04-28,1739,Italy
+2020-04-27,2324,Italy
+2020-04-26,2357,Italy
+2020-04-25,3021,Italy
+2020-04-24,2646,Italy
+2020-04-23,3370,Italy
+2020-04-22,2729,Italy
+2020-04-21,2256,Italy
+2020-04-20,3047,Italy
+2020-04-19,3491,Italy
+2020-04-18,3493,Italy
+2020-04-17,3786,Italy
+2020-04-16,2667,Italy
+2020-04-15,2972,Italy
+2020-04-14,3153,Italy
+2020-04-13,4092,Italy
+2020-04-12,4694,Italy
+2020-04-11,3951,Italy
+2020-04-10,4204,Italy
+2020-04-09,3836,Italy
+2020-04-08,3039,Italy
+2020-04-07,3599,Italy
+2020-04-06,4316,Italy
+2020-04-05,4805,Italy
+2020-04-04,4585,Italy
+2020-04-03,4668,Italy
+2020-04-02,4782,Italy
+2020-04-01,4053,Italy
+2020-03-31,4050,Italy
+2020-03-30,5217,Italy
+2020-03-29,5974,Italy
+2020-03-28,5959,Italy
+2020-03-27,6153,Italy
+2020-03-26,5210,Italy
+2020-03-25,5249,Italy
+2020-03-24,4789,Italy
+2020-03-23,5560,Italy
+2020-03-22,6557,Italy
+2020-03-21,5986,Italy
+2020-03-20,5322,Italy
+2020-03-19,4207,Italy
+2020-03-18,3526,Italy
+2020-03-17,4000,Italy
+2020-03-16,2823,Italy
+2020-03-15,3497,Italy
+2020-03-14,2547,Italy
+2020-03-13,2651,Italy
+2020-03-12,2313,Italy
+2020-03-11,977,Italy
+2020-03-10,1797,Italy
+2020-03-09,1492,Italy
+2020-03-08,1247,Italy
+2020-03-07,778,Italy
+2020-03-06,769,Italy
+2020-03-05,587,Italy
+2020-03-04,466,Italy
+2020-03-03,347,Italy
+2020-03-02,561,Italy
+2020-03-01,240,Italy
+2020-02-29,238,Italy
+2020-02-28,250,Italy
+2020-02-27,78,Italy
+2020-02-26,93,Italy
+2020-02-25,97,Italy
+2020-02-24,53,Italy
+2020-02-23,62,Italy
+2020-02-22,14,Italy
+2020-02-21,0,Italy
+2020-02-20,0,Italy
+2020-02-19,0,Italy
+2020-02-18,0,Italy
+2020-02-17,0,Italy
+2020-02-16,0,Italy
+2020-02-15,0,Italy
+2020-02-14,0,Italy
+2020-02-13,0,Italy
+2020-02-12,0,Italy
+2020-02-11,0,Italy
+2020-02-10,0,Italy
+2020-02-09,0,Italy
+2020-02-08,0,Italy
+2020-02-07,0,Italy
+2020-02-06,0,Italy
+2020-02-05,0,Italy
+2020-02-04,0,Italy
+2020-02-03,0,Italy
+2020-02-02,0,Italy
+2020-02-01,0,Italy
+2020-01-31,3,Italy
+2020-01-30,0,Italy
+2020-01-29,0,Italy
+2020-01-28,0,Italy
+2020-01-27,0,Italy
+2020-01-26,0,Italy
+2020-01-25,0,Italy
+2020-01-24,0,Italy
+2020-01-23,0,Italy
+2020-01-22,0,Italy
+2020-01-21,0,Italy
+2020-01-20,0,Italy
+2020-01-19,0,Italy
+2020-01-18,0,Italy
+2020-01-17,0,Italy
+2020-01-16,0,Italy
+2020-01-15,0,Italy
+2020-01-14,0,Italy
+2020-01-13,0,Italy
+2020-01-12,0,Italy
+2020-01-11,0,Italy
+2020-01-10,0,Italy
+2020-01-09,0,Italy
+2020-01-08,0,Italy
+2020-01-07,0,Italy
+2020-01-06,0,Italy
+2020-01-05,0,Italy
+2020-01-04,0,Italy
+2020-01-03,0,Italy
+2020-01-02,0,Italy
+2020-01-01,0,Italy
+2019-12-31,0,Italy
+2020-06-16,85,Japan
+2020-06-15,73,Japan
+2020-06-14,47,Japan
+2020-06-13,50,Japan
+2020-06-12,40,Japan
+2020-06-11,41,Japan
+2020-06-10,41,Japan
+2020-06-09,36,Japan
+2020-06-08,33,Japan
+2020-06-07,38,Japan
+2020-06-06,39,Japan
+2020-06-05,46,Japan
+2020-06-04,32,Japan
+2020-06-03,56,Japan
+2020-06-02,46,Japan
+2020-06-01,33,Japan
+2020-05-31,47,Japan
+2020-05-30,85,Japan
+2020-05-29,68,Japan
+2020-05-28,0,Japan
+2020-05-27,28,Japan
+2020-05-26,42,Japan
+2020-05-25,31,Japan
+2020-05-24,14,Japan
+2020-05-23,23,Japan
+2020-05-22,89,Japan
+2020-05-21,39,Japan
+2020-05-20,20,Japan
+2020-05-19,60,Japan
+2020-05-18,20,Japan
+2020-05-17,48,Japan
+2020-05-16,44,Japan
+2020-05-15,114,Japan
+2020-05-14,55,Japan
+2020-05-13,150,Japan
+2020-05-12,76,Japan
+2020-05-11,51,Japan
+2020-05-10,119,Japan
+2020-05-09,81,Japan
+2020-05-08,84,Japan
+2020-05-07,109,Japan
+2020-05-06,123,Japan
+2020-05-05,174,Japan
+2020-05-04,218,Japan
+2020-05-03,295,Japan
+2020-05-02,263,Japan
+2020-05-01,193,Japan
+2020-04-30,236,Japan
+2020-04-29,276,Japan
+2020-04-28,191,Japan
+2020-04-27,203,Japan
+2020-04-26,290,Japan
+2020-04-25,652,Japan
+2020-04-24,468,Japan
+2020-04-23,276,Japan
+2020-04-22,378,Japan
+2020-04-21,367,Japan
+2020-04-20,390,Japan
+2020-04-19,566,Japan
+2020-04-18,628,Japan
+2020-04-17,585,Japan
+2020-04-16,482,Japan
+2020-04-15,455,Japan
+2020-04-14,390,Japan
+2020-04-13,507,Japan
+2020-04-12,1401,Japan
+2020-04-11,680,Japan
+2020-04-10,410,Japan
+2020-04-09,351,Japan
+2020-04-08,89,Japan
+2020-04-07,163,Japan
+2020-04-06,383,Japan
+2020-04-05,336,Japan
+2020-04-04,318,Japan
+2020-04-03,439,Japan
+2020-04-02,225,Japan
+2020-04-01,0,Japan
+2020-03-31,87,Japan
+2020-03-30,173,Japan
+2020-03-29,194,Japan
+2020-03-28,135,Japan
+2020-03-27,96,Japan
+2020-03-26,75,Japan
+2020-03-25,65,Japan
+2020-03-24,39,Japan
+2020-03-23,43,Japan
+2020-03-22,39,Japan
+2020-03-21,57,Japan
+2020-03-20,77,Japan
+2020-03-19,44,Japan
+2020-03-18,5,Japan
+2020-03-17,10,Japan
+2020-03-16,34,Japan
+2020-03-15,43,Japan
+2020-03-14,62,Japan
+2020-03-13,56,Japan
+2020-03-12,51,Japan
+2020-03-11,54,Japan
+2020-03-10,26,Japan
+2020-03-09,33,Japan
+2020-03-08,47,Japan
+2020-03-07,59,Japan
+2020-03-06,32,Japan
+2020-03-05,49,Japan
+2020-03-04,14,Japan
+2020-03-03,0,Japan
+2020-03-02,15,Japan
+2020-03-01,9,Japan
+2020-02-29,20,Japan
+2020-02-28,24,Japan
+2020-02-27,22,Japan
+2020-02-26,20,Japan
+2020-02-25,0,Japan
+2020-02-24,12,Japan
+2020-02-23,27,Japan
+2020-02-22,12,Japan
+2020-02-21,9,Japan
+2020-02-20,18,Japan
+2020-02-19,7,Japan
+2020-02-18,0,Japan
+2020-02-17,7,Japan
+2020-02-16,14,Japan
+2020-02-15,8,Japan
+2020-02-14,1,Japan
+2020-02-13,4,Japan
+2020-02-12,0,Japan
+2020-02-11,0,Japan
+2020-02-10,0,Japan
+2020-02-09,0,Japan
+2020-02-08,0,Japan
+2020-02-07,0,Japan
+2020-02-06,0,Japan
+2020-02-05,5,Japan
+2020-02-04,0,Japan
+2020-02-03,1,Japan
+2020-02-02,4,Japan
+2020-02-01,1,Japan
+2020-01-31,3,Japan
+2020-01-30,4,Japan
+2020-01-29,3,Japan
+2020-01-28,1,Japan
+2020-01-27,0,Japan
+2020-01-26,1,Japan
+2020-01-25,0,Japan
+2020-01-24,1,Japan
+2020-01-23,0,Japan
+2020-01-22,0,Japan
+2020-01-21,0,Japan
+2020-01-20,0,Japan
+2020-01-19,0,Japan
+2020-01-18,0,Japan
+2020-01-17,0,Japan
+2020-01-16,0,Japan
+2020-01-15,1,Japan
+2020-01-14,0,Japan
+2020-01-13,0,Japan
+2020-01-12,0,Japan
+2020-01-11,0,Japan
+2020-01-10,0,Japan
+2020-01-09,0,Japan
+2020-01-08,0,Japan
+2020-01-07,0,Japan
+2020-01-06,0,Japan
+2020-01-05,0,Japan
+2020-01-04,0,Japan
+2020-01-03,0,Japan
+2020-01-02,0,Japan
+2020-01-01,0,Japan
+2019-12-31,0,Japan
+2020-06-16,8246,Russia
+2020-06-15,8835,Russia
+2020-06-14,8706,Russia
+2020-06-13,8987,Russia
+2020-06-12,8779,Russia
+2020-06-11,8404,Russia
+2020-06-10,8595,Russia
+2020-06-09,8985,Russia
+2020-06-08,8984,Russia
+2020-06-07,8855,Russia
+2020-06-06,8726,Russia
+2020-06-05,8831,Russia
+2020-06-04,8536,Russia
+2020-06-03,8863,Russia
+2020-06-02,9035,Russia
+2020-06-01,9268,Russia
+2020-05-31,8952,Russia
+2020-05-30,8572,Russia
+2020-05-29,8371,Russia
+2020-05-28,8338,Russia
+2020-05-27,8915,Russia
+2020-05-26,8946,Russia
+2020-05-25,8599,Russia
+2020-05-24,9434,Russia
+2020-05-23,8894,Russia
+2020-05-22,8849,Russia
+2020-05-21,8764,Russia
+2020-05-20,9263,Russia
+2020-05-19,8926,Russia
+2020-05-18,9709,Russia
+2020-05-17,9200,Russia
+2020-05-16,10598,Russia
+2020-05-15,9974,Russia
+2020-05-14,10028,Russia
+2020-05-13,10899,Russia
+2020-05-12,11656,Russia
+2020-05-11,11012,Russia
+2020-05-10,10817,Russia
+2020-05-09,10699,Russia
+2020-05-08,11231,Russia
+2020-05-07,10559,Russia
+2020-05-06,10102,Russia
+2020-05-05,10581,Russia
+2020-05-04,10633,Russia
+2020-05-03,9623,Russia
+2020-05-02,7933,Russia
+2020-05-01,7099,Russia
+2020-04-30,5841,Russia
+2020-04-29,6411,Russia
+2020-04-28,6198,Russia
+2020-04-27,6361,Russia
+2020-04-26,5966,Russia
+2020-04-25,5849,Russia
+2020-04-24,4774,Russia
+2020-04-23,5236,Russia
+2020-04-22,5642,Russia
+2020-04-21,4268,Russia
+2020-04-20,6060,Russia
+2020-04-19,4785,Russia
+2020-04-18,4070,Russia
+2020-04-17,3448,Russia
+2020-04-16,3388,Russia
+2020-04-15,2774,Russia
+2020-04-14,2558,Russia
+2020-04-13,2186,Russia
+2020-04-12,1667,Russia
+2020-04-11,1786,Russia
+2020-04-10,1459,Russia
+2020-04-09,1175,Russia
+2020-04-08,1154,Russia
+2020-04-07,954,Russia
+2020-04-06,658,Russia
+2020-04-05,582,Russia
+2020-04-04,601,Russia
+2020-04-03,771,Russia
+2020-04-02,440,Russia
+2020-04-01,501,Russia
+2020-03-31,302,Russia
+2020-03-30,270,Russia
+2020-03-29,228,Russia
+2020-03-28,196,Russia
+2020-03-27,182,Russia
+2020-03-26,163,Russia
+2020-03-25,57,Russia
+2020-03-24,0,Russia
+2020-03-23,132,Russia
+2020-03-22,53,Russia
+2020-03-21,54,Russia
+2020-03-20,52,Russia
+2020-03-19,33,Russia
+2020-03-18,21,Russia
+2020-03-17,30,Russia
+2020-03-16,4,Russia
+2020-03-15,14,Russia
+2020-03-14,15,Russia
+2020-03-13,5,Russia
+2020-03-12,15,Russia
+2020-03-11,0,Russia
+2020-03-10,0,Russia
+2020-03-09,0,Russia
+2020-03-08,0,Russia
+2020-03-07,6,Russia
+2020-03-06,0,Russia
+2020-03-05,0,Russia
+2020-03-04,1,Russia
+2020-03-03,1,Russia
+2020-03-02,0,Russia
+2020-03-01,0,Russia
+2020-02-29,0,Russia
+2020-02-28,0,Russia
+2020-02-27,0,Russia
+2020-02-26,0,Russia
+2020-02-25,0,Russia
+2020-02-24,0,Russia
+2020-02-23,0,Russia
+2020-02-22,0,Russia
+2020-02-21,0,Russia
+2020-02-20,0,Russia
+2020-02-19,0,Russia
+2020-02-18,0,Russia
+2020-02-17,0,Russia
+2020-02-16,0,Russia
+2020-02-15,0,Russia
+2020-02-14,0,Russia
+2020-02-13,0,Russia
+2020-02-12,0,Russia
+2020-02-11,0,Russia
+2020-02-10,0,Russia
+2020-02-09,0,Russia
+2020-02-08,0,Russia
+2020-02-07,0,Russia
+2020-02-06,0,Russia
+2020-02-05,0,Russia
+2020-02-04,0,Russia
+2020-02-03,0,Russia
+2020-02-02,0,Russia
+2020-02-01,2,Russia
+2020-01-31,0,Russia
+2020-01-30,0,Russia
+2020-01-29,0,Russia
+2020-01-28,0,Russia
+2020-01-27,0,Russia
+2020-01-26,0,Russia
+2020-01-25,0,Russia
+2020-01-24,0,Russia
+2020-01-23,0,Russia
+2020-01-22,0,Russia
+2020-01-21,0,Russia
+2020-01-20,0,Russia
+2020-01-19,0,Russia
+2020-01-18,0,Russia
+2020-01-17,0,Russia
+2020-01-16,0,Russia
+2020-01-15,0,Russia
+2020-01-14,0,Russia
+2020-01-13,0,Russia
+2020-01-12,0,Russia
+2020-01-11,0,Russia
+2020-01-10,0,Russia
+2020-01-09,0,Russia
+2020-01-08,0,Russia
+2020-01-07,0,Russia
+2020-01-06,0,Russia
+2020-01-05,0,Russia
+2020-01-04,0,Russia
+2020-01-03,0,Russia
+2020-01-02,0,Russia
+2020-01-01,0,Russia
+2019-12-31,0,Russia
+2020-06-16,19957,United States of America
+2020-06-15,19543,United States of America
+2020-06-14,25540,United States of America
+2020-06-13,25639,United States of America
+2020-06-12,22883,United States of America
+2020-06-11,20614,United States of America
+2020-06-10,18665,United States of America
+2020-06-09,18822,United States of America
+2020-06-08,22302,United States of America
+2020-06-07,22223,United States of America
+2020-06-06,25178,United States of America
+2020-06-05,21140,United States of America
+2020-06-04,19699,United States of America
+2020-06-03,20544,United States of America
+2020-06-02,21086,United States of America
+2020-06-01,19807,United States of America
+2020-05-31,23297,United States of America
+2020-05-30,25337,United States of America
+2020-05-29,21817,United States of America
+2020-05-28,18721,United States of America
+2020-05-27,18910,United States of America
+2020-05-26,19064,United States of America
+2020-05-25,20568,United States of America
+2020-05-24,21236,United States of America
+2020-05-23,24147,United States of America
+2020-05-22,25434,United States of America
+2020-05-21,23285,United States of America
+2020-05-20,19970,United States of America
+2020-05-19,21841,United States of America
+2020-05-18,18873,United States of America
+2020-05-17,24487,United States of America
+2020-05-16,25508,United States of America
+2020-05-15,27143,United States of America
+2020-05-14,20782,United States of America
+2020-05-13,22048,United States of America
+2020-05-12,18117,United States of America
+2020-05-11,20258,United States of America
+2020-05-10,25612,United States of America
+2020-05-09,26957,United States of America
+2020-05-08,28369,United States of America
+2020-05-07,24128,United States of America
+2020-05-06,23841,United States of America
+2020-05-05,22593,United States of America
+2020-05-04,24972,United States of America
+2020-05-03,29288,United States of America
+2020-05-02,33955,United States of America
+2020-05-01,29917,United States of America
+2020-04-30,27326,United States of America
+2020-04-29,24132,United States of America
+2020-04-28,22541,United States of America
+2020-04-27,26857,United States of America
+2020-04-26,48529,United States of America
+2020-04-25,21352,United States of America
+2020-04-24,26543,United States of America
+2020-04-23,17588,United States of America
+2020-04-22,37289,United States of America
+2020-04-21,28065,United States of America
+2020-04-20,24601,United States of America
+2020-04-19,32922,United States of America
+2020-04-18,30833,United States of America
+2020-04-17,31667,United States of America
+2020-04-16,30148,United States of America
+2020-04-15,26922,United States of America
+2020-04-14,25023,United States of America
+2020-04-13,27620,United States of America
+2020-04-12,28391,United States of America
+2020-04-11,35527,United States of America
+2020-04-10,33901,United States of America
+2020-04-09,33323,United States of America
+2020-04-08,30613,United States of America
+2020-04-07,30561,United States of America
+2020-04-06,25398,United States of America
+2020-04-05,34272,United States of America
+2020-04-04,32425,United States of America
+2020-04-03,28819,United States of America
+2020-04-02,27103,United States of America
+2020-04-01,24998,United States of America
+2020-03-31,21595,United States of America
+2020-03-30,18360,United States of America
+2020-03-29,19979,United States of America
+2020-03-28,18695,United States of America
+2020-03-27,16797,United States of America
+2020-03-26,13963,United States of America
+2020-03-25,8789,United States of America
+2020-03-24,11236,United States of America
+2020-03-23,8459,United States of America
+2020-03-22,7123,United States of America
+2020-03-21,5374,United States of America
+2020-03-20,4835,United States of America
+2020-03-19,2988,United States of America
+2020-03-18,1766,United States of America
+2020-03-17,887,United States of America
+2020-03-16,823,United States of America
+2020-03-15,777,United States of America
+2020-03-14,511,United States of America
+2020-03-13,351,United States of America
+2020-03-12,287,United States of America
+2020-03-11,271,United States of America
+2020-03-10,200,United States of America
+2020-03-09,121,United States of America
+2020-03-08,95,United States of America
+2020-03-07,105,United States of America
+2020-03-06,74,United States of America
+2020-03-05,34,United States of America
+2020-03-04,22,United States of America
+2020-03-03,14,United States of America
+2020-03-02,20,United States of America
+2020-03-01,3,United States of America
+2020-02-29,6,United States of America
+2020-02-28,1,United States of America
+2020-02-27,6,United States of America
+2020-02-26,0,United States of America
+2020-02-25,18,United States of America
+2020-02-24,0,United States of America
+2020-02-23,0,United States of America
+2020-02-22,19,United States of America
+2020-02-21,1,United States of America
+2020-02-20,0,United States of America
+2020-02-19,0,United States of America
+2020-02-18,0,United States of America
+2020-02-17,0,United States of America
+2020-02-16,0,United States of America
+2020-02-15,0,United States of America
+2020-02-14,1,United States of America
+2020-02-13,1,United States of America
+2020-02-12,0,United States of America
+2020-02-11,1,United States of America
+2020-02-10,0,United States of America
+2020-02-09,0,United States of America
+2020-02-08,0,United States of America
+2020-02-07,0,United States of America
+2020-02-06,1,United States of America
+2020-02-05,0,United States of America
+2020-02-04,0,United States of America
+2020-02-03,3,United States of America
+2020-02-02,1,United States of America
+2020-02-01,1,United States of America
+2020-01-31,1,United States of America
+2020-01-30,0,United States of America
+2020-01-29,0,United States of America
+2020-01-28,0,United States of America
+2020-01-27,3,United States of America
+2020-01-26,0,United States of America
+2020-01-25,1,United States of America
+2020-01-24,0,United States of America
+2020-01-23,0,United States of America
+2020-01-22,0,United States of America
+2020-01-21,1,United States of America
+2020-01-20,0,United States of America
+2020-01-19,0,United States of America
+2020-01-18,0,United States of America
+2020-01-17,0,United States of America
+2020-01-16,0,United States of America
+2020-01-15,0,United States of America
+2020-01-14,0,United States of America
+2020-01-13,0,United States of America
+2020-01-12,0,United States of America
+2020-01-11,0,United States of America
+2020-01-10,0,United States of America
+2020-01-09,0,United States of America
+2020-01-08,0,United States of America
+2020-01-07,0,United States of America
+2020-01-06,0,United States of America
+2020-01-05,0,United States of America
+2020-01-04,0,United States of America
+2020-01-03,0,United States of America
+2020-01-02,0,United States of America
+2020-01-01,0,United States of America
+2019-12-31,0,United States of America
